@@ -246,8 +246,7 @@ highlight {
 <tr>
   <td>
     <p align="justify">
-      Submissions should be up to 4 pages, with unlimited references and appendices, and formatted in the <a href="https://ras.papercept.net/conferences/support/support.php">IEEE conference style</a> (ICRA or Humanoids). Anonymization is not required. Work under review or accepted at other workshops or conferences is welcome, as we do not require copyright transfer. We are accepting submissions through <a href="https://docs.google.com/forms/d/e/1FAIpQLScXcpr4Qk0Vsxd8cdPQQPOz_Eq1WxCCPW0f3chz-_TjoVz-yQ/viewform?usp=dialog">this form</a>.
-      The submission portal will be announced soon.
+      Submissions should be up to 4 pages, with unlimited references and appendices, and formatted in the <a href="https://ras.papercept.net/conferences/support/support.php">IEEE conference style</a> (ICRA or Humanoids). Anonymization is not required. Work under review or accepted at other workshops or conferences is welcome, as we do not require copyright transfer. We are accepting submissions through <a href="https://docs.google.com/forms/d/e/1FAIpQLScXcpr4Qk0Vsxd8cdPQQPOz_Eq1WxCCPW0f3chz-_TjoVz-yQ/viewform?usp=dialog"><b>this form</b></a>.
     </p>
   </td>
 </tr>
@@ -321,24 +320,44 @@ highlight {
       </p>
     </td>
     <td width=150px> 
-      <img class="profile" src="./src/figure/robot.png">
+      <img class="profile" src="./src/figure/speakers/hfang.png">
       <p align=center>
-      To be announced soon
+      <a href="https://fang-haoshu.github.io">Hao-Shu Fang</a><br>
+      UMD <br>
+      (tentative)
       </p>
     </td>
     <td width=150px> 
-      <img class="profile" src="./src/figure/robot.png">
+      <img class="profile" src="./src/figure/speakers/jpark.jpg">
       <p align=center>
-      To be announced soon
+      <a href="http://dyros.snu.ac.kr/team/jaeheung-park">Jaeheung Park</a><br>
+      Seoul National University<br>
+      (tentative)
       </p>
     </td>
     <td width=150px> 
-      <img class="profile" src="./src/figure/robot.png">
+      <img class="profile" src="./src/figure/speakers/rtedrake.jpg">
+      <a href="https://locomotion.csail.mit.edu/russt.html">Russ Tedrake</a><br>
       <p align=center>
-      To be announced soon
+      MIT, TRI<br>
+      (tentative)
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <div style="height: 16px;"></div>
+    </td>
+  </tr>
+  <tr valign=top>
+    <td width=150px> 
+      <img class="profile" src="./src/figure/speakers/dlee.jpg">
+      <p align=center>
+      <a href="https://www.tuwien.at/en/etit/ict/asl/team/dongheui-lee">Dongheui Lee</a><br>
+      TU Wien, DLR<br>
+      (tentative)
+      </p>
+    </td>
 </table>
     </td>
   </tr>
@@ -425,5 +444,20 @@ highlight {
     </td>
   </tr>
 </table>
+
+<hr>
+
+<table align=center width=800px>
+  <tr>
+    <td> 
+      <h2>Contact</h2>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      For any questions, please email <a href="mailto:mingyo@utexas.edu"><highlight>mingyo@utexas.edu</highlight></a>.
+    </td>
+  </tr>
+
 <div style="height: 16px;"></div>
 </div>
